@@ -1,4 +1,4 @@
-# C-_Organization-and-Course-Management-System
+# CPP_Organization-and-Course-Management-System
 
 Write code in c++ Organization and Course Management You are required to create a system representing an organization structure using multilevel inheritance. The structure involves three levels:
 
